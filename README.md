@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MonarchGiri
-- 👀 I’m a cybersecurity student and enthusiast with a strong focous on Blue team.
+- 👀 I’m a cybersecurity graduate and enthusiast with a strong focous on Blue team.
 - 📫 How to reach me
 - https://www.linkedin.com/in/monarch-giri-b43214192/
 <!---
